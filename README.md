@@ -53,7 +53,7 @@ Finance & Data Analyst#
 
 # ## Dashboard Preview
 
-![Executive Dashboard](IMG_1305.PNG)
+![Executive Dashboard](IMG_0321.jpeg)
 
 ![Budget vs Actual](IMG_1306.PNG)
 
