@@ -55,6 +55,8 @@ Finance & Data Analyst#
 
 ![Executive Dashboard](IMG_0321.jpeg)
 
-![Budget vs Actual](IMG_1306.PNG)
+![Budget vs Actual](IMG_0322.JPG)
+
+![Grant Portfolio tracker](IMG_0323.JPG)
 
 ![Grant Tracker](IMG_1307.PNG)
