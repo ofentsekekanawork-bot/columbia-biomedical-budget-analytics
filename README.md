@@ -50,3 +50,7 @@ Demonstrates how finance teams use data to support budgeting, forecasting, and s
 ## Author
 Ofentse Kekana  
 Finance & Data Analyst
+
+## Dashboard Preview
+
+![Dashboard](IMG_1305.PNG)
